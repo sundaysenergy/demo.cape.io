@@ -1,0 +1,14 @@
+title : Sundays Energy
+tagline: Blog Tagline
+author :
+  name : Sundays Energy, Inc.
+  email : kai@sundaysenergy.com
+  github : sundaysenergy
+  twitter : sundaysenergy
+
+navigation :
+  - archive
+  - tags
+  - categories
+  - pages
+  - about
