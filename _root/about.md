@@ -1,7 +1,7 @@
 ---
 title: About Me
 description: null
-published: true
+
 ---
 
 All about me =)
